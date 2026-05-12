@@ -131,46 +131,6 @@ A terminal-first agentic system designed to execute tasks, interact with your en
 </td>
 <td width="50%">
 
-### 🛡️ [SpecShield](https://github.com/nettycpu/SpecShield)
-
-> Build with intention, security and structure using open-source tools.
-
-A project focused on development discipline, security, structured engineering and better software workflows.
-
-**Focus:**  
-`Security` · `Open Source` · `Dev Workflow` · `Engineering`
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🎬 [area69-bmad-oficial](https://github.com/nettycpu/area69-bmad-oficial)
-
-> Platform for AI generative images and videos.
-
-A creative AI platform exploring generative media, image generation, video generation and productized AI experiences.
-
-**Focus:**  
-`TypeScript` · `Generative AI` · `Media` · `Creative Tech`
-
-</td>
-<td width="50%">
-
-### 🌌 Creative / Agentic Lab
-
-> Experiments around AI, automation and creative systems.
-
-A space for prototypes, research, workflows and tools that connect agents, software, design, content and business.
-
-**Focus:**  
-`Research` · `Prototypes` · `Agents` · `Automation`
-
-</td>
-</tr>
-</table>
-
----
 
 ## 🎯 Skill Matrix
 
