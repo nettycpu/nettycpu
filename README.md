@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello humans, my name is Netty, and coding and technology are my favorite job. 🏴‍☠️☕
 
 <!--
 **nettycpu/nettycpu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
