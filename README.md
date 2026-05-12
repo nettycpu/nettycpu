@@ -41,6 +41,8 @@
 
 </div>
 
+---
+
 ## 🧠 About me
 
 <table>
@@ -113,24 +115,48 @@ Mission     Build systems that execute
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Featured Project
 
 <table>
 <tr>
-<td width="50%">
+<td width="100%">
 
-### 🦊 [nullain-agent](https://github.com/nettycpu/nullain-agent)
+<div align="center">
 
-> Autonomous AI agent that lives inside your terminal.
+### 🦊 [NULLAIN — Agentic OS / Terminal AI Agent](https://github.com/nettycpu/nullain-agent)
 
-A terminal-first agentic system designed to execute tasks, interact with your environment, and become the foundation for a personal **Agentic OS**.
+**Autonomous AI agent that lives inside your terminal.**
 
-**Focus:**  
-`AI Agents` · `CLI` · `Automation` · `Computer Use` · `Agentic OS`
+</div>
+
+NULLAIN is my main featured project: a terminal-first agentic system designed to execute tasks, interact with the environment, connect tools, and become the foundation for a personal **Agentic OS**.
+
+It represents the direction I am building toward: AI agents that can reason, operate, automate, document, improve workflows and become a real execution layer for creators, developers and businesses.
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Status-Active%20Development-C8A96A?style=for-the-badge&logo=rocket&logoColor=050505&labelColor=050505" />
+<img src="https://img.shields.io/badge/Type-Terminal%20AI%20Agent-050505?style=for-the-badge&logo=gnubash&logoColor=C8A96A" />
+<img src="https://img.shields.io/badge/Focus-Agentic%20OS-F4E8D0?style=for-the-badge&logo=probot&logoColor=050505&labelColor=050505" />
+
+</div>
+
+<br />
+
+**Core ideas:**  
+`AI Agents` · `CLI` · `Automation` · `Computer Use` · `Agentic OS` · `Tool Orchestration` · `Terminal-first Workflow`
+
+<div align="center">
+
+[![Open NULLAIN Repository](https://img.shields.io/badge/Open%20NULLAIN%20Repository-C8A96A?style=for-the-badge&logo=github&logoColor=050505&labelColor=050505)](https://github.com/nettycpu/nullain-agent)
+
+</div>
 
 </td>
-<td width="50%">
+</tr>
+</table>
 
+---
 
 ## 🎯 Skill Matrix
 
