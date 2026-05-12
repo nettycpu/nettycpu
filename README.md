@@ -41,46 +41,6 @@
 
 </div>
 
----
-
-## 🧭 Visual Identity
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="20%">
-<h3>⬛ Black</h3>
-<code>#050505</code><br/>
-Core / depth / hacker mood
-</td>
-<td align="center" width="20%">
-<h3>⬜ White</h3>
-<code>#FFFFFF</code><br/>
-Clarity / contrast / readability
-</td>
-<td align="center" width="20%">
-<h3>🥛 Light Beige</h3>
-<code>#F4E8D0</code><br/>
-Elegance / warmth / premium tone
-</td>
-<td align="center" width="20%">
-<h3>🏆 Gold</h3>
-<code>#C8A96A</code><br/>
-Luxury / detail / highlight
-</td>
-<td align="center" width="20%">
-<h3>☕ Coffee</h3>
-<code>#7A5C3E</code><br/>
-Craft / culture / creative aura
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
 ## 🧠 About me
 
 <table>
