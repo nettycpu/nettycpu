@@ -1,20 +1,20 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:020617,45:1E3A8A,75:7C3AED,100:111827&text=Netty%20CPU&fontColor=FFFFFF&fontSize=58&fontAlignY=36&desc=AI%20Engineer%20%C2%B7%20Agentic%20OS%20Builder%20%C2%B7%20Creative%20Technologist&descAlignY=58&descSize=18" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=245&color=0:050505,38:111111,68:C8A96A,100:F4E8D0&text=Netty%20CPU&fontColor=FFFFFF&fontSize=58&fontAlignY=36&desc=AI%20Engineer%20%C2%B7%20Agentic%20OS%20Builder%20%C2%B7%20Creative%20Technologist&descAlignY=58&descSize=18" />
 
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=23&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=950&lines=Hello+humans%2C+I'm+Netty+%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F;I+build+AI+Agents+that+live+inside+the+terminal;Agentic+OS+%C2%B7+Computer+Use+Agents+%C2%B7+Automation;Code.+Design.+Automate.+Ship.+Repeat.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=23&duration=2800&pause=900&color=C8A96A&center=true&vCenter=true&width=950&lines=Hello+humans%2C+I'm+Netty+%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F;I+build+AI+Agents+that+live+inside+the+terminal;Agentic+OS+%C2%B7+Computer+Use+Agents+%C2%B7+Automation;Code.+Design.+Automate.+Ship.+Repeat.)](https://git.io/typing-svg)
 
 </div>
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=nettycpu&style=for-the-badge&color=blueviolet" />
-<img src="https://img.shields.io/github/followers/nettycpu?style=for-the-badge&logo=github&color=0ea5e9" />
-<img src="https://img.shields.io/github/stars/nettycpu?style=for-the-badge&logo=github&color=facc15" />
+<img src="https://komarev.com/ghpvc/?username=nettycpu&style=for-the-badge&color=050505&label=PROFILE%20VIEWS" />
+<img src="https://img.shields.io/github/followers/nettycpu?style=for-the-badge&logo=github&logoColor=white&label=FOLLOWERS&color=C8A96A&labelColor=050505" />
+<img src="https://img.shields.io/github/stars/nettycpu?style=for-the-badge&logo=github&logoColor=white&label=STARS&color=F4E8D0&labelColor=050505" />
 
 </div>
 
@@ -22,9 +22,60 @@
 
 <div align="center">
 
-[![Website](https://img.shields.io/badge/Website-netty.dev-38BDF8?style=for-the-badge&logo=google-chrome&logoColor=white)](https://netty.dev)
-[![GitHub](https://img.shields.io/badge/GitHub-nettycpu-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nettycpu)
-[![Agentic OS](https://img.shields.io/badge/Building-Agentic%20OS-7C3AED?style=for-the-badge&logo=probot&logoColor=white)](https://github.com/nettycpu/nullain-agent)
+[![Website](https://img.shields.io/badge/Website-netty.dev-F4E8D0?style=for-the-badge&logo=google-chrome&logoColor=050505&labelColor=050505)](https://netty.dev)
+[![GitHub](https://img.shields.io/badge/GitHub-nettycpu-050505?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nettycpu)
+[![Agentic OS](https://img.shields.io/badge/Building-Agentic%20OS-C8A96A?style=for-the-badge&logo=probot&logoColor=050505&labelColor=050505)](https://github.com/nettycpu/nullain-agent)
+
+</div>
+
+<br />
+
+<div align="center">
+
+[![Instagram](https://img.shields.io/badge/Instagram-netty.dev-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/netty.dev)
+[![Threads](https://img.shields.io/badge/Threads-netty.dev.oficial-050505?style=for-the-badge&logo=threads&logoColor=white)](https://www.threads.com/@netty.dev.oficial?hl=pt-br)
+[![YouTube](https://img.shields.io/badge/YouTube-netty--dev--oficial-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@netty-dev-oficial)
+[![Spotify](https://img.shields.io/badge/Spotify-Netty-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/intl-pt/artist/71NgkNWzJz8C6IBUNPIW1H)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-netty--dev-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/netty-dev/?skipRedirect=true)
+[![Facebook](https://img.shields.io/badge/Facebook-Netty-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100090171977227&sk=directory_personal_details)
+
+</div>
+
+---
+
+## 🧭 Visual Identity
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="20%">
+<h3>⬛ Black</h3>
+<code>#050505</code><br/>
+Core / depth / hacker mood
+</td>
+<td align="center" width="20%">
+<h3>⬜ White</h3>
+<code>#FFFFFF</code><br/>
+Clarity / contrast / readability
+</td>
+<td align="center" width="20%">
+<h3>🥛 Light Beige</h3>
+<code>#F4E8D0</code><br/>
+Elegance / warmth / premium tone
+</td>
+<td align="center" width="20%">
+<h3>🏆 Gold</h3>
+<code>#C8A96A</code><br/>
+Luxury / detail / highlight
+</td>
+<td align="center" width="20%">
+<h3>☕ Coffee</h3>
+<code>#7A5C3E</code><br/>
+Craft / culture / creative aura
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -34,7 +85,7 @@
 
 <table>
 <tr>
-<td width="60%">
+<td width="62%">
 
 ### Hello humans, my name is Netty. 🏴‍☠️☕
 
@@ -51,9 +102,21 @@ My current mission is to build **terminal-native AI agents**, **computer use age
 I like building tools that feel less like simple apps and more like **operating layers for intelligent work**.
 
 </td>
-<td width="40%">
+<td width="38%">
 
-<img width="100%" src="https://github-readme-stats.vercel.app/api?username=nettycpu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+### 🏴‍☠️ Netty CPU
+
+```txt
+Role        AI Engineer
+Focus       Agentic OS
+Mode        Terminal-first
+Style       Premium hacker lab
+Stack       AI · Code · Design · Growth
+Mission     Build systems that execute
+```
+
+**Currently building:**  
+`AI Agents` · `CLI Tools` · `Automation` · `Creative Systems`
 
 </td>
 </tr>
@@ -153,11 +216,11 @@ A space for prototypes, research, workflows and tools that connect agents, softw
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/AI%20Agents-4F46E5?style=for-the-badge&logo=googlegemini&logoColor=white" />
-<img src="https://img.shields.io/badge/Prompt%20Engineering-111827?style=for-the-badge&logo=openai&logoColor=white" />
-<img src="https://img.shields.io/badge/RAG%20Systems-7C3AED?style=for-the-badge&logo=databricks&logoColor=white" />
-<img src="https://img.shields.io/badge/Automation-0F172A?style=for-the-badge&logo=probot&logoColor=white" />
-<img src="https://img.shields.io/badge/Creative%20Tech-DB2777?style=for-the-badge&logo=adobecreativecloud&logoColor=white" />
+<img src="https://img.shields.io/badge/AI%20Agents-050505?style=for-the-badge&logo=googlegemini&logoColor=C8A96A" />
+<img src="https://img.shields.io/badge/Prompt%20Engineering-C8A96A?style=for-the-badge&logo=openai&logoColor=050505" />
+<img src="https://img.shields.io/badge/RAG%20Systems-F4E8D0?style=for-the-badge&logo=databricks&logoColor=050505" />
+<img src="https://img.shields.io/badge/Automation-111111?style=for-the-badge&logo=probot&logoColor=C8A96A" />
+<img src="https://img.shields.io/badge/Creative%20Tech-7A5C3E?style=for-the-badge&logo=adobecreativecloud&logoColor=white" />
 
 </div>
 
@@ -307,11 +370,11 @@ A space for prototypes, research, workflows and tools that connect agents, softw
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" />
-<img src="https://img.shields.io/badge/Claude%20Code-111827?style=for-the-badge&logo=anthropic&logoColor=white" />
-<img src="https://img.shields.io/badge/OpenAI-111827?style=for-the-badge&logo=openai&logoColor=white" />
-<img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white" />
-<img src="https://img.shields.io/badge/Perplexity-1FB8CD?style=for-the-badge&logo=perplexity&logoColor=white" />
+<img src="https://img.shields.io/badge/Cursor-050505?style=for-the-badge&logo=cursor&logoColor=white" />
+<img src="https://img.shields.io/badge/Claude%20Code-C8A96A?style=for-the-badge&logo=anthropic&logoColor=050505" />
+<img src="https://img.shields.io/badge/OpenAI-050505?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/Gemini-F4E8D0?style=for-the-badge&logo=googlegemini&logoColor=050505" />
+<img src="https://img.shields.io/badge/Perplexity-7A5C3E?style=for-the-badge&logo=perplexity&logoColor=white" />
 
 </div>
 
@@ -319,11 +382,11 @@ A space for prototypes, research, workflows and tools that connect agents, softw
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/DaVinci%20Resolve-233A51?style=for-the-badge&logo=davinciresolve&logoColor=white" />
-<img src="https://img.shields.io/badge/Adobe%20Premiere-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white" />
-<img src="https://img.shields.io/badge/After%20Effects-9999FF?style=for-the-badge&logo=adobeaftereffects&logoColor=white" />
-<img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white" />
-<img src="https://img.shields.io/badge/FL%20Studio-FF7621?style=for-the-badge&logo=musicbrainz&logoColor=white" />
+<img src="https://img.shields.io/badge/DaVinci%20Resolve-050505?style=for-the-badge&logo=davinciresolve&logoColor=C8A96A" />
+<img src="https://img.shields.io/badge/Adobe%20Premiere-C8A96A?style=for-the-badge&logo=adobepremierepro&logoColor=050505" />
+<img src="https://img.shields.io/badge/After%20Effects-F4E8D0?style=for-the-badge&logo=adobeaftereffects&logoColor=050505" />
+<img src="https://img.shields.io/badge/Blender-7A5C3E?style=for-the-badge&logo=blender&logoColor=white" />
+<img src="https://img.shields.io/badge/FL%20Studio-050505?style=for-the-badge&logo=musicbrainz&logoColor=C8A96A" />
 
 </div>
 
@@ -416,8 +479,26 @@ Turning ideas into products people can understand and use.
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=nettycpu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nettycpu&layout=compact&theme=tokyonight&hide_border=true" />
+<table>
+<tr>
+<td align="center" width="25%">
+<h3>🏗️ Builder Mode</h3>
+<p><b>Open Source</b><br/>Projects, experiments and systems.</p>
+</td>
+<td align="center" width="25%">
+<h3>🤖 Agentic Focus</h3>
+<p><b>AI Agents</b><br/>Terminal-native autonomous workflows.</p>
+</td>
+<td align="center" width="25%">
+<h3>🎨 Creative Tech</h3>
+<p><b>Design + Media</b><br/>Visual systems, video, 3D and music.</p>
+</td>
+<td align="center" width="25%">
+<h3>⚡ Ship Energy</h3>
+<p><b>Build Fast</b><br/>Prototype, deploy, document and improve.</p>
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -425,7 +506,7 @@ Turning ideas into products people can understand and use.
 
 <div align="center">
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=nettycpu&theme=tokyo-night&hide_border=true&area=true" />
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=nettycpu&theme=github-compact&hide_border=true&area=true&custom_title=Netty's%20Contribution%20Graph&color=C8A96A&line=C8A96A&point=F4E8D0&area_color=7A5C3E&title_color=F4E8D0&bg_color=050505" />
 
 </div>
 
@@ -433,7 +514,7 @@ Turning ideas into products people can understand and use.
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=nettycpu&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&margin-h=8" />
+<img src="https://github-profile-trophy.vercel.app/?username=nettycpu&theme=onedark&no-frame=true&no-bg=true&margin-w=8&margin-h=8" />
 
 </div>
 
@@ -460,9 +541,9 @@ That is the kind of software I am building.
 
 <div align="center">
 
-[![Website](https://img.shields.io/badge/Website-netty.dev-38BDF8?style=for-the-badge&logo=google-chrome&logoColor=white)](https://netty.dev)
-[![GitHub](https://img.shields.io/badge/GitHub-nettycpu-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nettycpu)
-[![Projects](https://img.shields.io/badge/Projects-Open%20Source-7C3AED?style=for-the-badge&logo=githubsponsors&logoColor=white)](https://github.com/nettycpu?tab=repositories)
+[![Website](https://img.shields.io/badge/Website-netty.dev-F4E8D0?style=for-the-badge&logo=google-chrome&logoColor=050505&labelColor=050505)](https://netty.dev)
+[![GitHub](https://img.shields.io/badge/GitHub-nettycpu-050505?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nettycpu)
+[![Projects](https://img.shields.io/badge/Projects-Open%20Source-C8A96A?style=for-the-badge&logo=githubsponsors&logoColor=050505&labelColor=050505)](https://github.com/nettycpu?tab=repositories)
 
 </div>
 
@@ -470,6 +551,24 @@ That is the kind of software I am building.
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:111827,40:7C3AED,100:020617&section=footer" />
+[![Instagram](https://img.shields.io/badge/Instagram-netty.dev-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/netty.dev)
+[![Threads](https://img.shields.io/badge/Threads-netty.dev.oficial-050505?style=for-the-badge&logo=threads&logoColor=white)](https://www.threads.com/@netty.dev.oficial?hl=pt-br)
+[![YouTube](https://img.shields.io/badge/YouTube-netty--dev--oficial-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@netty-dev-oficial)
+
+</div>
+
+<div align="center">
+
+[![Spotify](https://img.shields.io/badge/Spotify-Netty-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/intl-pt/artist/71NgkNWzJz8C6IBUNPIW1H)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-netty--dev-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/netty-dev/?skipRedirect=true)
+[![Facebook](https://img.shields.io/badge/Facebook-Netty-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100090171977227&sk=directory_personal_details)
+
+</div>
+
+<br />
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:F4E8D0,35:C8A96A,70:111111,100:050505&section=footer" />
 
 </div>
